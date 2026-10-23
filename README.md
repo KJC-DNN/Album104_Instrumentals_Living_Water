@@ -18,6 +18,6 @@ Countless Praises
 You Are Enough
 
 # Published
-GitHub: 
-Archive: https://archive.org/details/album-104-instrumentals-living-water-main-cover.jpg
-Zenodo: https://doi.org/10.5281/zenodo.23588088
+1. GitHub:
+2. Archive: https://archive.org/details/album-104-instrumentals-living-water-main-cover.jpg
+3. Zenodo: https://doi.org/10.5281/zenodo.23588088
