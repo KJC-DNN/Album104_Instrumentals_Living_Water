@@ -18,6 +18,6 @@ Countless Praises
 You Are Enough
 
 # Published
-1. GitHub:
+1. GitHub: https://github.com/KJC-DNN/Album104_Instrumentals_Living_Water/releases/tag/104INS.0.0
 2. Archive: https://archive.org/details/album-104-instrumentals-living-water-main-cover.jpg
 3. Zenodo: https://doi.org/10.5281/zenodo.23588088
